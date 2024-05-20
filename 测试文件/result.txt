@@ -1,0 +1,96 @@
+
+
+
+YuShan_NB:Miracle2D_2	 1:3 	202307061728-YuShan_NB_1-vs-Miracle2D_2_3
+YuShan_NB:Miracle2D_2	 2:5 	202307061950-YuShan_NB_2-vs-Miracle2D_2_5
+YuShan_NB:Miracle2D_2	 1:3 	202307062002-YuShan_NB_1-vs-Miracle2D_2_3
+YuShan_NB:Miracle2D_2	 5:2 	202307062013-YuShan_NB_5-vs-Miracle2D_2_2
+YuShan_NB:Miracle2D_2	 3:2 	202307062028-YuShan_NB_3-vs-Miracle2D_2_2
+YuShan_NB:Miracle2D_2	 2:3 	202307062039-YuShan_NB_2-vs-Miracle2D_2_3
+YuShan_NB:Miracle2D_2	 2:3 	202307062050-YuShan_NB_2-vs-Miracle2D_2_3
+YuShan_NB:Miracle2D_2	 2:2 	202307062101-YuShan_NB_2-vs-Miracle2D_2_2
+
+
+
+YuShan_NB:Miracle2D_2	 2:1 	202307071730-YuShan_NB_2-vs-Miracle2D_2_1
+YuShan_NB:Miracle2D_2	 2:2 	202307071744-YuShan_NB_2-vs-Miracle2D_2_2
+YuShan_NB:Miracle2D_2	 2:0 	202307071801-YuShan_NB_2-vs-Miracle2D_2_0
+YuShan_NB:Miracle2D_2	 2:1 	202307071812-YuShan_NB_2-vs-Miracle2D_2_1
+
+
+
+YuShan_NB:Chord	 3:3 	202307071830-YuShan_NB_3-vs-Chord_3
+YuShan_NB:huojian	 7:0 	202307071847-YuShan_NB_7-vs-huojian_0
+YuShan_NB:Hfut.Happy	 0:2 	202307071858-YuShan_NB_0-vs-Hfut.Happy_2
+YuShan_NB:Miracle2D_2	 2:0 	202307071909-YuShan_NB_2-vs-Miracle2D_2_0
+YuShan_NB:MASXY2	 3:1 	202307071920-YuShan_NB_3-vs-MASXY2_1
+YuShan_NB:MT2023A	 1:0 	202307071931-YuShan_NB_1-vs-MT2023A_0
+YuShan_NB:Chord	 1:3 	202307071946-YuShan_NB_1-vs-Chord_3
+
+
+
+YuShan:Cyrus2D_base	 3:5 	202400151353-YuShan_3-vs-Cyrus2D_base_5
+
+
+
+YuShan:Chord	 0:3 	202402131931-YuShan_0-vs-Chord_3
+
+
+
+YuShan:Chord	 0:4 	202402131945-YuShan_0-vs-Chord_4
+YuShan:MT2023A	 3:5 	202402131959-YuShan_3-vs-MT2023A_5
+YuShan:Chord	 0:2 	202402132012-YuShan_0-vs-Chord_2
+YuShan:MT2023A	 5:6 	202402132024-YuShan_5-vs-MT2023A_6
+YuShan:Chord	 2:5 	202402132037-YuShan_2-vs-Chord_5
+YuShan:MT2023A	 1:5 	202402132050-YuShan_1-vs-MT2023A_5
+YuShan:Chord	 2:3 	202402132103-YuShan_2-vs-Chord_3
+YuShan:MT2023A	 2:1 	202402132116-YuShan_2-vs-MT2023A_1
+YuShan:Chord	 2:4 	202402132129-YuShan_2-vs-Chord_4
+
+
+
+YuShan:Chord	 3:5 	202402141517-YuShan_3-vs-Chord_5
+YuShan:MT2023A	 0:3 	202402141533-YuShan_0-vs-MT2023A_3
+YuShan:Chord	 1:2 	202402141545-YuShan_1-vs-Chord_2
+YuShan:MT2023A	 2:2 	202402141557-YuShan_2-vs-MT2023A_2
+YuShan:Chord	 2:5 	202402141613-YuShan_2-vs-Chord_5
+YuShan:MT2023A	 3:4 	202402141626-YuShan_3-vs-MT2023A_4
+YuShan:Chord	 1:5 	202402141638-YuShan_1-vs-Chord_5
+YuShan:MT2023A	 1:5 	202402141650-YuShan_1-vs-MT2023A_5
+YuShan:Chord	 0:3 	202402141702-YuShan_0-vs-Chord_3
+YuShan:MT2023A	 3:4 	202402141714-YuShan_3-vs-MT2023A_4
+YuShan:Chord	 0:4 	202402141730-YuShan_0-vs-Chord_4
+YuShan:MT2023A	 4:4 	202402141742-YuShan_4-vs-MT2023A_4
+YuShan:Chord	 2:5 	202402141800-YuShan_2-vs-Chord_5
+YuShan:MT2023A	 2:2 	202402141812-YuShan_2-vs-MT2023A_2
+YuShan:Chord	 2:8 	202402141855-YuShan_2-vs-Chord_8
+YuShan:MT2023A	 1:3 	202402141908-YuShan_1-vs-MT2023A_3
+YuShan:Chord	 0:1 	202402141919-YuShan_0-vs-Chord_1
+YuShan:MT2023A	 4:6 	202402141931-YuShan_4-vs-MT2023A_6
+YuShan:Chord	 2:1 	202402141943-YuShan_2-vs-Chord_1
+YuShan:MT2023A	 2:5 	202402141955-YuShan_2-vs-MT2023A_5
+YuShan:Chord	 2:5 	202402142007-YuShan_2-vs-Chord_5
+YuShan:MT2023A	 6:8 	202402142019-YuShan_6-vs-MT2023A_8
+YuShan:Chord	 0:4 	202402142031-YuShan_0-vs-Chord_4
+YuShan:MT2023A	 0:2 	202402142043-YuShan_0-vs-MT2023A_2
+YuShan:Chord	 4:8 	202402142055-YuShan_4-vs-Chord_8
+YuShan:MT2023A	 0:2 	202402142108-YuShan_0-vs-MT2023A_2
+YuShan:Chord	 2:4 	202402142119-YuShan_2-vs-Chord_4
+
+YuShan_NB:Miracle2D_2	 1:3 	202307061728-YuShan_NB_1-vs-Miracle2D_2_3
+YuShan_NB:Miracle2D_2	 2:5 	202307061950-YuShan_NB_2-vs-Miracle2D_2_5
+YuShan_NB:Miracle2D_2	 1:3 	202307062002-YuShan_NB_1-vs-Miracle2D_2_3
+YuShan_NB:Miracle2D_2	 5:2 	202307062013-YuShan_NB_5-vs-Miracle2D_2_2
+YuShan_NB:Miracle2D_2	 3:2 	202307062028-YuShan_NB_3-vs-Miracle2D_2_2
+YuShan_NB:Miracle2D_2	 2:3 	202307062039-YuShan_NB_2-vs-Miracle2D_2_3
+YuShan_NB:Miracle2D_2	 2:3 	202307062050-YuShan_NB_2-vs-Miracle2D_2_3
+YuShan_NB:Miracle2D_2	 2:2 	202307062101-YuShan_NB_2-vs-Miracle2D_2_2
+
+Cyrus2D_base:YuShan	 3:5 	202400151353-Cyrus2D_base_3-vs-YuShan_5
+
+YuShan:Miracle2D_2	 4:3 	202402131931-YuShan_4-vs-Miracle2D_2_3
+
+Chord:YuShan	 5:3 	202402131931-Chord_5-vs-YuShan_3
+Cyrus2D_base:YuShan	 2:5 	202400151353-Cyrus2D_base_2-vs-YuShan_5
+
+Miracle2D_2:YuShan	 3:3 	202402131931-Miracle2D_2_3-vs-YuShan_3

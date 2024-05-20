@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>882</width>
+    <height>674</height>
+   </rect>
+  </property>
+  <property name="baseSize">
+   <size>
+    <width>387</width>
+    <height>87</height>
+   </size>
+  </property>
+  <property name="font">
+   <font>
+    <family>华文楷体</family>
+    <pointsize>12</pointsize>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>仿真2D 胜率分析软件</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../../../../../../学习/RobCup/软件著作/仿真2D Fedit2阵型修正软件/仿真2D Fedit2阵型修正软件V1.0/Sources/favicon.ico</normaloff>../../../../../../学习/RobCup/软件著作/仿真2D Fedit2阵型修正软件/仿真2D Fedit2阵型修正软件V1.0/Sources/favicon.ico</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="maximumSize">
+    <size>
+     <width>16777215</width>
+     <height>16777215</height>
+    </size>
+   </property>
+   <property name="autoFillBackground">
+    <bool>true</bool>
+   </property>
+   <layout class="QGridLayout" name="gridLayout_2">
+    <item row="2" column="0">
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QPushButton" name="showPushButton">
+        <property name="text">
+         <string>展示原始对局信息</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="analysisPushButton">
+        <property name="text">
+         <string>进行胜率分析</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="savePushButton">
+        <property name="text">
+         <string>保存分析结果</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item row="1" column="0">
+     <layout class="QGridLayout" name="gridLayout">
+      <item row="0" column="1">
+       <widget class="QLineEdit" name="filePathLineEdit"/>
+      </item>
+      <item row="0" column="0">
+       <widget class="QPushButton" name="selectFilePushButton">
+        <property name="text">
+         <string>选择对局记录文件</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item row="3" column="0">
+     <widget class="QTextEdit" name="finalResult"/>
+    </item>
+    <item row="0" column="0">
+     <layout class="QHBoxLayout" name="imagesHorizontalLayout">
+      <item>
+       <widget class="QLabel" name="labelUniversityLogo">
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>75</height>
+         </size>
+        </property>
+        <property name="baseSize">
+         <size>
+          <width>300</width>
+          <height>75</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="pixmap">
+         <pixmap>logo/university.png</pixmap>
+        </property>
+        <property name="scaledContents">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="labelTeamLogo">
+        <property name="maximumSize">
+         <size>
+          <width>250</width>
+          <height>125</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="pixmap">
+         <pixmap>logo/team.jpg</pixmap>
+        </property>
+        <property name="scaledContents">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="labelCollegeLogo">
+        <property name="maximumSize">
+         <size>
+          <width>300</width>
+          <height>75</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="pixmap">
+         <pixmap>logo/college.png</pixmap>
+        </property>
+        <property name="scaledContents">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
