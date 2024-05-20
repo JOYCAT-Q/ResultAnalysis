@@ -6,11 +6,15 @@
 # 保存路径:
 
 文本分析结果保存路径：./finalResult/analysisResult.txt 文本文件内
+
 折线图分析结果保存路径：./charts/datetime(保存的日期时间)/内的 .html 文件
+
 Avg_Score_Gap.html：每场平均分差分析，值为正向或负向较大值，意味着比分正向或负向差距越大，显示出两支队伍间的实力差距
+
 Win_ProbAndAvg_Gain_Lose.html：胜率以及平均进/失球分析统计
 
 可以根据analysisResult.txt中的时间戳来寻找对应的分析图文件夹
+
 # 环境依赖：
 
 Python>=3.8
@@ -38,15 +42,25 @@ pandas==2.0.3
 # 方式一：
 
 将源码打包下载到本地 
-Linux下在终端中输入 python3 runMain.py 即可
-Windows下在命令窗口中输入 python runMain.py 即可
+
+Linux下在终端中输入 
+
+python3 runMain.py 即可
+
+Windows下在命令窗口中输入 
+
+python runMain.py 即可
 
 # 方式二：
 
 下载对应系统发行版
+
 Windows：仿真2d_胜率分析软件V1.0_Windows.exe
+
 双击运行即可(请确保logo文件夹与可执行处于同级目录下)
+
 Ubuntu：仿真2d_胜率分析软件V1.0_Ubuntu
+
 右键运行即可(请确保logo文件夹与可执行处于同级目录下)
 
 如出现文件无权限，输入：chmod 777 ./仿真2d_胜率分析软件V1.0_Ubuntu 即可
@@ -54,6 +68,7 @@ Ubuntu：仿真2d_胜率分析软件V1.0_Ubuntu
 # 对于源码打包命令：
 
 下载打包工具：pip/pip3 install pyinstaller  -i  https://pypi.tuna.tsinghua.edu.cn/simple
+
 在源码所在文件夹打开终端输入：pyinstaller --onefile --icon=./favicon.ico --windowed --strip --name="仿真2d_胜率分析软件" runMain.py
 
 # 在Windows下补全环境：
